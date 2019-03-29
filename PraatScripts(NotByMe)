@@ -1,0 +1,2 @@
+Open up sound and TextGrid pairs one by one. This loops through all the files in a directory and allows you to make changes before saving those changes and moving on to the next file.
+https://linguistics.ucla.edu/people/grads/ajroyer/scripts/loop_over_sounds_and_TextGrids.praat
