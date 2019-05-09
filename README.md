@@ -1,5 +1,4 @@
-# AutomatingStuff
-Work in Progress
+# Work in progess
 
 This is my Hello World repository.
 
